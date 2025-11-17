@@ -1,4 +1,24 @@
 # Big_Ideas_Final_Project_Group_22
 Group 22 final project big ideas
+
+One sentence overview:
+This repository contains the data we used to determine which Pittsburgh neighborhood has the highest quality of life.
 LINKS FOR DATASETS
+
 https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
+
+ https://data.wprdc.org/datastore/dump/fbb50b02-2879-47cd-abea-ae697ec05170
+   
+ This dataset has all of the community facilities in each neighborhood listed.
+  
+ https://data.wprdc.org/datastore/dump/b7cb30c8-b179-43ff-8655-f24880b0f578
+  
+ This dataset depicts the number of daily community center visits in each neighborhood.
+
+https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6
+
+EMAILS AND GROUP MEMBERS
+
+Will Zakos WIZ27@pitt.edu
+
+Camryn Dawkins CMD322@pitt.edu
