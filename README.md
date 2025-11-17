@@ -15,6 +15,7 @@ https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
   
  This dataset depicts the number of daily community center visits in each neighborhood.
 
+https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6
 
 EMAILS AND GROUP MEMBERS
 
