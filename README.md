@@ -3,3 +3,8 @@ Group 22 final project big ideas
 LINKS FOR DATASETS
 
 https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard
+
+
+
+EMAILS AND GROUP MEMBERS
+Will Zakos WIZ27@pitt.edu
