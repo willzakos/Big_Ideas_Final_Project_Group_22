@@ -22,3 +22,7 @@ EMAILS AND GROUP MEMBERS
 Will Zakos WIZ27@pitt.edu
 
 Camryn Dawkins CMD322@pitt.edu
+
+Liam Stone LJS215@pitt.edu
+
+Ranjan Dhungana RAD303@pitt.edu
